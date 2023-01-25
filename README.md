@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 # 💫 About Me:
 Experienced Backend developer with 4 years of hands-on experience in developing highly scalable mobile and web applications.<br><br>Led teams in Building test cases, as well as eliminating redundancy and duplications. Reduces downtime by 15% and warranty costs by 25%.<br><br>With following TDD approach, I write automated tests to develop testable, scalable, maintainable, and refactorable codebase using CI/CD tools.<br><br>What can I do?<br>1) Develop a complete website from scratch.<br>2) Build your website Database<br>3) Secure website data<br>4) Rest API development.<br>5) Customized control panel <br>6) E-commerce apps & websites development.
