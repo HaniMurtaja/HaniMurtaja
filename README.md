@@ -4,7 +4,7 @@
 
 🔭 I’m currently working as a Full Stack Web Developer at Yemen Tadawul
 
-🌱 I’m currently learning micro-services with node js course 
+🌱 I’m currently learning micro-services with node js  
 
 📫 reach me at mortajahany@gmail.com
 
