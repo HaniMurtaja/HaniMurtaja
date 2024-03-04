@@ -2,13 +2,13 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working as a Full Stack Web Developer at Yemen Tadawul
+🔭 I’m currently working as a Backend Developer at Drive7
 
 🌱 I’m currently learning micro-services with node js  
 
 📫 reach me at mortajahany@gmail.com
 
-⚡ Fun fact although I'm a backend developer , I still have the sense of humour 
+⚡ Fun fact although I'm a backend developer, I still have a sense of humour 
 
 
 
