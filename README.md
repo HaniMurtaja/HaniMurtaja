@@ -19,6 +19,19 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HaniMurtaja&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br>
+
+<h3>⚡ Recent GitHub Activity</h3>
+<br>
+
+![HaniMurtaja's github stats](https://github-readme-stats.vercel.app/api?username=HaniMurtaja&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HaniMurtaja&theme=tokyonight" alt="mystreak"/>
+
+![HaniMurtaja's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaniMurtaja&theme=tokyonight&layout=compact)
+
+
+<br/>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hanimurtaja/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/hani_murtaja) 
